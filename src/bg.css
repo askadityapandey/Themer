@@ -1,0 +1,9 @@
+.app-container {
+  background-image: url('./assets/themer-bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  height: 100vh; /* 100% of the viewport height */
+  width: 100vw; /* 100% of the viewport width */
+  /* Other styles as needed */
+}

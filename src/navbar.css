@@ -1,0 +1,28 @@
+.navbar {
+ 
+  padding: 1rem; /* Adjust padding as needed */
+  width: 100%;
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: space-between; /* Add this line for spacing between elements */
+  z-index: 1000;
+  transition: background-color 0.3s ease; /* Add smooth transition */
+}
+
+.navbar.scrolled {
+  background-color: rgba(0, 0, 0, 0.9); /* Change background color when scrolled */
+}
+
+.nav-item {
+  display: flex;
+  position: absolute;
+  right: 30px;
+}
+
+.nav-item a {
+  margin-left: auto; /* Move the anchor elements to the right */
+  margin-right: 12px; /* Add some right margin for spacing */
+  color: white; /* Optionally set the text color to white */
+  text-decoration: none; /* Optionally remove the underline */
+}

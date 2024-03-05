@@ -28,16 +28,16 @@ Before you begin, ensure you have the following installed:
    npm start
    
 ## Usage
-Select Colors: Use the input fields to select colors for various elements of the VS Code editor.
-Preview Your Theme: The generated theme JSON will be displayed in real-time as you select colors.
-Download Your Theme: Click the "Download Theme" button to export your custom theme as a .json file.
-Import to VS Code: Follow these instructions to import your theme into VS Code.
+- Select Colors: Use the input fields to select colors for various elements of the VS Code editor.
+- Preview Your Theme: The generated theme JSON will be displayed in real-time as you select colors.
+- Download Your Theme: Click the "Download Theme" button to export your custom theme as a .json file.
+- Import to VS Code: Follow these instructions to import your theme into VS Code.
 
 ## Contributing
 Contributions are welcome! If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
 Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+- Create your Feature Branch (git checkout -b feature/AmazingFeature)
+- Commit your Changes (git commit -m 'Add some AmazingFeature')
+- Push to the Branch (git push origin feature/AmazingFeature)
+- Open a Pull Request
